@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d12a7d4f.chunk.css",
+    "main.js": "/portfolio/static/js/main.a3d4818b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a3d4818b.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.021e39fd.chunk.js": "/portfolio/static/js/2.021e39fd.chunk.js",
+    "static/js/2.021e39fd.chunk.js.map": "/portfolio/static/js/2.021e39fd.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.a780e973ccfee25d303c0621d25bcad9.js": "/portfolio/precache-manifest.a780e973ccfee25d303c0621d25bcad9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.d12a7d4f.chunk.css.map": "/portfolio/static/css/main.d12a7d4f.chunk.css.map",
+    "static/media/EXXON.PNG": "/portfolio/static/media/EXXON.a39e26c2.PNG",
+    "static/media/Nike.PNG": "/portfolio/static/media/Nike.8fb3fdab.PNG",
+    "static/media/Sap1.PNG": "/portfolio/static/media/Sap1.27b39950.PNG",
+    "static/media/Siemens.PNG": "/portfolio/static/media/Siemens.7f6425d0.PNG",
+    "static/media/Workforce.PNG": "/portfolio/static/media/Workforce.dd449306.PNG",
+    "static/media/bb.png": "/portfolio/static/media/bb.281d84ca.png",
+    "static/media/client.jpg": "/portfolio/static/media/client.b47c165a.jpg",
+    "static/media/index.css": "/portfolio/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/portfolio/static/media/email_icon.fd99f8e3.png",
+    "static/media/fermo.jpg": "/portfolio/static/media/fermo.b68bd4df.jpg",
+    "static/media/github_icon.png": "/portfolio/static/media/github_icon.e2a62886.png",
+    "static/media/linkedin_icon.png": "/portfolio/static/media/linkedin_icon.56ab00e8.png",
+    "static/media/marketing.PNG": "/portfolio/static/media/marketing.cfc827ab.PNG",
+    "static/media/oracle.PNG": "/portfolio/static/media/oracle.52c43fe4.PNG",
+    "static/media/twitter_icon.png": "/portfolio/static/media/twitter_icon.512536cb.png",
+    "static/media/website.PNG": "/portfolio/static/media/website.9efd5a1d.PNG"
+  }
+}
